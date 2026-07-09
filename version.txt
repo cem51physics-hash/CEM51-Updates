@@ -1,2 +1,2 @@
-1.2.2
-https://github.com/cem51physics-hash/CEM51-Updates/releases/download/V1.2.2/CEM51-PHY.V.1.2.2.exe
+1.3
+https://github.com/cem51physics-hash/CEM51-Updates/releases/download/V1.3/CEM51-PHY.V.1.3.exe
